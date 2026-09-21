@@ -7,6 +7,12 @@ Repository ini berisi file-file hasil Project Based Learning (PBL) pada mata kul
   <img src="Dokumentasi/4.jpeg" width="500">
 </p>
 
+1. Ariq Suryaselpha Hamid
+2. Sofyan Adam Malik
+3. Noviana Rahmadhani
+4. Gilang Al Buqhori
+5. Wahyu Septian Wicahya
+   
 ## File-File
 ### Mekanikal
 
