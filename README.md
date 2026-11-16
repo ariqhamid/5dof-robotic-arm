@@ -25,7 +25,7 @@ desain assembly mekanikal robot arm, file .STEP dan foto hasil render
 ### Elektrikal
 Perancangan sistem elektrikal, schematic, dan layout PCB menggunakan KiCad.
 <p align="left">
-  <img src="elektrikal/ARM ELEKTRIKAL-B-Cu.pdf" width="300">
+  <img src="elektrikal/ARM ELEKTRIKAL-B_Cu.pdf" width="300">
 </p>
 
 ### Software
