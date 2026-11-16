@@ -18,6 +18,9 @@ Repository ini berisi file-file hasil Project Based Learning (PBL) pada mata kul
 ## File-File
 ### Mekanikal
 desain assembly mekanikal robot arm, file .STEP dan foto hasil render
+<p align="center">
+  <img src="mekanikal/ARM.png" width="500">
+</p>
 
 ### Elektrikal
 Perancangan sistem elektrikal, schematic, dan layout PCB menggunakan KiCad.
