@@ -24,6 +24,9 @@ desain assembly mekanikal robot arm, file .STEP dan foto hasil render
 
 ### Elektrikal
 Perancangan sistem elektrikal, schematic, dan layout PCB menggunakan KiCad.
+<p align="left">
+  <img src="elektrikal/ARM ELEKTRIKAL-B-Cu.pdf" width="300">
+</p>
 
 ### Software
 Perangkat lunak untuk perhitungan dan visualisasi invers kinematik robot arm menggunakan Python, serta program Arduino untuk pengendalian servo.
